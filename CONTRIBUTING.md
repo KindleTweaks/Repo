@@ -17,3 +17,5 @@ Adjust paths accordingly.
 4. It's best practice to create separate `.kpkg` files for separate ABIs, but this is not a strict necessity.
 
 5. Understand packages must be maintained or will be withdrawn from the repository.
+
+6. If creating a new package, read and modify an existing one as a base.
