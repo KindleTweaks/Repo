@@ -17,14 +17,26 @@ To install, run the following command:
 
 ## Packages
 
-- KUALA: Homebrew Launcher for Kindle, based on the legacy KUAL.
+- **KUALA**: Homebrew Launcher for Kindle, based on the legacy KUAL.
     - Author: [Kaspar](https://github.com/kasparcode/)
     - Original Source: [Github](https://github.com/kasparcode/kuala/)
     - License: CC0
     - Supports: KindleHF
 
-- Gargoyle: IF Reader Compiled for Kindle.
+- **Gargoyle**: IF Reader Compiled for Kindle.
     - Author: [Barna](https://github.com/kbarni/)
     - Original Source: [Github](https://github.com/kbarni/garglk)
     - Licenses: GPLv2, Simplified 2-Clause BSD License, Artistic License 2.0, MIT, SIL Open Font License (OFL) v1.1, Liberation License.
     - Supports: KindleHF
+
+- **KinAMP**: Music and internet radio player for Kindle and Koreader.
+    - Author: [Barna](https://github.com/kbarni/)
+    - Original Source: [Github](https://github.com/kbarni/KinAMP)
+    - Licenses: GPLv3
+    - Supports: KindleHF, KindlePW2
+
+- **LARK**: Libre Audiobook Reader for Kindle.
+    - Author: [Barna](https://github.com/kbarni/)
+    - Original Source: [Github](https://github.com/kbarni/Larkplayer)
+    - Licenses: GPLv3
+    - Supports: KindleHF, KindlePW2
