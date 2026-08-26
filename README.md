@@ -1,7 +1,7 @@
 # KindleTweaks Repo
 
 > [!NOTE]
-> The main external repository for Kindle homebrew. WIP
+> The main external repository for Kindle homebrew.
 
 > [!IMPORTANT]
 > **Licensing Notice**:
@@ -11,13 +11,17 @@
 
 ## Installation
 
-To install, run the following command:
+Please download `kt_repo.sh` from releases and copy it to the Kindle's `documents` folder, then run it as [scriptlet](https://kindlemodding.org/jailbreaking/whats-next/installing-homebrew.html#Scriptlets).
+
+Alternatively, run the following command:
 
 `/var/local/kmc/bin/kpm add-repo https://kindletweaks.github.io/Repo/manifest.json`
 
 ## Packages
 
-- **KUALA**: Homebrew Launcher for Kindle, based on the legacy KUAL.
+All packages are made by developers part of the KindleTweaks organisation, ensuring they are maintained and safe-to-use.
+
+- **KUALA**: Homebrew Launcher for Kindle, Based on the Legacy KUAL.
     - Author: [Kaspar](https://github.com/kasparcode/)
     - Original Source: [Github](https://github.com/kasparcode/kuala/)
     - License: CC0
@@ -29,7 +33,7 @@ To install, run the following command:
     - Licenses: GPLv2, Simplified 2-Clause BSD License, Artistic License 2.0, MIT, SIL Open Font License (OFL) v1.1, Liberation License.
     - Supports: KindleHF
 
-- **KinAMP**: Music and internet radio player for Kindle and Koreader.
+- **KinAMP**: Music and Internet Radio Player for Kindle and KOReader.
     - Author: [Barna](https://github.com/kbarni/)
     - Original Source: [Github](https://github.com/kbarni/KinAMP)
     - Licenses: GPLv3
