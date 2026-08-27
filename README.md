@@ -48,3 +48,10 @@ All packages are made by developers part of the KindleTweaks organisation, ensur
     - Original Source: [Github](https://github.com/kbarni/Larkplayer)
     - Licenses: GPLv3
     - Supports: KindleHF, KindlePW2
+
+- **RAnki**: Anki Reviewer for Kindle.
+    - Command: `;kpm install ranki`
+    - Author: [CrazyElectron](https://github.com/crazy-electron/)
+    - Original Source: [Github](https://github.com/crazy-electron/ranki)
+    - Licenses: GPLv3
+    - Supports: KindleHF, KindlePW2
