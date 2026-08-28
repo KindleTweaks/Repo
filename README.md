@@ -55,3 +55,11 @@ All packages are made by developers part of the KindleTweaks organisation, ensur
     - Original Source: [Github](https://github.com/crazy-electron/ranki)
     - Licenses: GPLv3
     - Supports: KindleHF, KindlePW2
+
+- **Puzzles**: Simon Tatham's Portable Puzzle Collection for Kindle.
+    - Command: `;kpm install puzzles`
+    - Author: [Barna](https://github.com/kbarni/)
+    - Original Source: [Github](https://github.com/kbarni/kindlepuzzles)
+    - Licenses: MIT
+    - Supports: KindleHF, KindlePW2
+
