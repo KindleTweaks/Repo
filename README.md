@@ -55,3 +55,10 @@ All packages are made by developers part of the KindleTweaks organisation, ensur
     - Original Source: [Github](https://github.com/crazy-electron/ranki)
     - Licenses: GPLv3
     - Supports: KindleHF, KindlePW2
+
+- **kherdr**: Terminal App for Kindle, with Local Shells, SSH and Herdr Sessions.
+    - Command: `;kpm install kherdr`
+    - Author: [theblazehen](https://github.com/theblazehen/)
+    - Original Source: [Github](https://github.com/theblazehen/kherdr)
+    - Licenses: GPLv3; bundled components retain their licenses, included in the package.
+    - Supports: KindleHF
