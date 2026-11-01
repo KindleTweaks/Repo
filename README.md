@@ -55,3 +55,10 @@ All packages are made by developers part of the KindleTweaks organisation, ensur
     - Original Source: [Github](https://github.com/crazy-electron/ranki)
     - Licenses: GPLv3
     - Supports: KindleHF, KindlePW2
+
+- **Kindle Browser Patch**
+    - Command: `;kpm install kindle_browser_patch`
+    - Author: [mooocow124](https://github.com/mooocow124/)
+    - Original Source: [Github](https://github.com/mooocow124/kindle_browser_patch)
+    - Licenses: Apache 2.0
+    - Supports: KindleHF
