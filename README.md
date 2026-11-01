@@ -56,7 +56,7 @@ All packages are made by developers part of the KindleTweaks organisation, ensur
     - Licenses: GPLv3
     - Supports: KindleHF, KindlePW2
 
-- **Kindle Browser Patch**
+- **Kindle Browser Patch**: Patches the Kindle native browser to allow downloading files of any extension and visiting `localhost`
     - Command: `;kpm install kindle_browser_patch`
     - Author: [mooocow124](https://github.com/mooocow124/)
     - Original Source: [Github](https://github.com/mooocow124/kindle_browser_patch)
